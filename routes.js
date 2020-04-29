@@ -34,8 +34,8 @@ routes.use(flash());
 
 var options = {
     auth: {
-        api_key: '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'
-		// api_key: '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'
+        api_key: 'API Key'
+		
     }
 }
 
